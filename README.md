@@ -21,3 +21,5 @@ The highlight of this project was discovering practical use cases for AWS IAM. F
 
 This project not only honed my technical skills but also provided valuable insights into the critical role of IAM in cloud security. I’m excited to apply these learnings to future projects and contribute to creating secure cloud environments.
 
+
+![iam policy simulator](https://github.com/user-attachments/assets/4c952136-0257-49d3-a35d-072622c2d200)
